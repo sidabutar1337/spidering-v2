@@ -1,4 +1,3 @@
-Oke! Aku akan buatkan `README.md` yang lebih profesional dan matang, dengan bahasa yang menarik tapi tetap jelas dan rapi, cocok untuk dipajang di GitHub. Berikut hasil akhirnya:
 
 ---
 
