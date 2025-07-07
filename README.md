@@ -76,7 +76,7 @@ pip install requests beautifulsoup4
 
 ## 🧑‍💻 Tentang Developer
 
-* 👨‍💻 **Nama:** SidabutarXCode a.k.a. ZEUSSEC1337
+* 👨‍💻 **Nama:** SidabutarXCode as  ZEUSSEC1337
 * 💬 **GitHub:** [sidabutar1337](https://github.com/sidabutar1337)
 
 ---
@@ -85,7 +85,7 @@ pip install requests beautifulsoup4
 
 Kalau kamu suka dengan tool ini dan ingin mendukung saya untuk terus berkarya, kamu bisa memberikan dukungan melalui:
 
-[![Donate via Saweria](https://img.shields.io/badge/Donate-Saweria-orange?style=for-the-badge\&logo=ko-fi)](https://saweria.com/zeussec1337)
+[![Donate via Saweria](https://img.shields.io/badge/Donate-Saweria-orange?style=for-the-badge\&logo=ko-fi)](https://saweria.co/zeussec1337)
 
 ---
 
