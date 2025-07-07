@@ -60,7 +60,7 @@ pip install requests beautifulsoup4
 2. Jalankan script:
 
    ```bash
-   python web_spider.py
+   python spidering-v2.py
    ```
 
 3. Masukkan nama file saat diminta:
