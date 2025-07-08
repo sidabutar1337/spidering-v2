@@ -98,7 +98,3 @@ Kalau kamu suka dengan tool ini dan ingin mendukung saya untuk terus berkarya, k
 
 ```
 
----
-
-Kalau kamu ingin sekalian dibuatkan `requirements.txt` atau ingin script-nya dibungkus jadi package CLI, tinggal bilang. Saya bisa bantu bikin versi upgrade-nya juga!
-```
