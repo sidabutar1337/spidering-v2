@@ -94,7 +94,3 @@ Kalau kamu suka dengan tool ini dan ingin mendukung saya untuk terus berkarya, k
 > Segala bentuk penyalahgunaan terhadap tool ini merupakan tanggung jawab pribadi pengguna.
 > Jangan gunakan pada situs tanpa izin eksplisit dari pemiliknya.
 
----
-
-```
-
